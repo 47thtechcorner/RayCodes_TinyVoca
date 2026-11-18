@@ -1,0 +1,2 @@
+Stop buying expensive cloud API credits just to give your local code a voice. This tiny four megabyte model generates studio-quality speech at seventy times real-time speed completely offline on your CPU.
+

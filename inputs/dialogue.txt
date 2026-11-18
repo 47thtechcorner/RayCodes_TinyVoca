@@ -1,0 +1,5 @@
+[F2] Welcome back to the local AI podcast! Today we are testing tiny-voca, an ultra-compact speech synthesizer.
+[M2] That's right! Despite weighing under twenty megabytes, it runs seventy times faster than real time on four CPU threads.
+[F2] And the best part? It officially beat models with over two billion parameters on the Open TTS Leaderboard.
+[M2] Completely offline, zero cloud API fees, and running right here on local hardware!
+
